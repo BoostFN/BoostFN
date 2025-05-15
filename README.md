@@ -1,7 +1,7 @@
 # X7Proxy - Coming Soon!
 
 ⭐ **Discord**: Coming Soon  
-📅 **Release**: TBA
+📅 **Release**: 2026
 
 ## Preview 📸
 
