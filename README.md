@@ -8,6 +8,11 @@
 
 📅 **Release**: 2026
 
+## Upcoming Features 🚀
+**Lobbies & Matchmaking System**
+
+There is more, but I don't have time to write.
+
 ## Preview 📸
  [Watch the video](https://www.youtube.com/watch?v=gITWvianSWw)
  -
