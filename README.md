@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/klldtest/BoostFN/refs/heads/main/images/app.png" alt="Dashboard" width="800"/>
+  <img src="https://raw.githubusercontent.com/klldtest/BoostFN/refs/heads/main/images/image.png" alt="Dashboard" width="800"/>
 </div>
 
 
