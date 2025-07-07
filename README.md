@@ -9,4 +9,9 @@
 📅 **Release**: 2026
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/klldtest/BoostFN/refs/heads/main/images/app.png" alt="Dashboard" width="800"/>
+</div>
+
+
 *Stay tuned for updates!*
